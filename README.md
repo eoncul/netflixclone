@@ -6,6 +6,8 @@ HTML CSS uzerinden gelistirildi
 
 <h2> Ekran Goruntusu </h2>
 
-! [] (sayfa.gif)
+![](sayfa.gif)
+
+
 
 
